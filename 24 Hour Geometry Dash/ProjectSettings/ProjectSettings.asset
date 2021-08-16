@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: Infinite_Twelve
   productName: 24 Hour Geometry Dash
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
